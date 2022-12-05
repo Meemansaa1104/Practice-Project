@@ -1,0 +1,13 @@
+.Cart_detail{
+    color: white;
+    font-family: 'Public Sans' ;
+    align-items: center;
+    display: flex;
+    padding-left: 100px;
+    cursor: pointer;
+}
+
+.Cart_detail > span{
+    font-weight: 500;
+    width: 3px;
+}

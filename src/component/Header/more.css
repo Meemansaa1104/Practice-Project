@@ -1,0 +1,12 @@
+.moreDetails{
+    color: white;
+    font-family: 'Public Sans' ;
+    align-items: center;
+    display: flex;
+    padding-left: 300px;
+    cursor: pointer;
+}
+
+.moreDetails > span{
+    font-weight: 500;
+}

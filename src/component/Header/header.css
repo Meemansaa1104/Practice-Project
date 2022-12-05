@@ -1,0 +1,38 @@
+.head{
+    background-color: rgb(44, 115, 207);
+    align-items:center;
+    display: flex;
+    justify-content: space-evenly; 
+}
+
+
+.head_logo{
+    padding: 22px ;
+    width: 3px;
+    height: 90px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-right: 400px ;
+}
+
+
+.head_logo > img{
+    width: 100px;
+    padding: auto;
+    height: 25px;
+    object-fit: contain;
+}
+
+.explor > img{
+    height: 17px;
+    max-width: 100px;
+    object-fit: contain;
+}
+
+.Component{
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center;
+    padding-right: 100px;
+}
